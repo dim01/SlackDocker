@@ -4,5 +4,5 @@ Slack has changed the way team members communicate. Slack gives developers the a
 What we should do:
 - Authenticate with the Slack App
 - Configure a Slack slash Command
-- Build a service to receive messages and use Docker machine
-- Process messages and respond with the outcome to the slack user
+- Build a service to receive messages
+- Process messages, execute commands on the Docker machine and respond with the outcome to the slack user
